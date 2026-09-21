@@ -1,0 +1,19 @@
+{
+  "name": "langchain_models",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "dependencies": {
+    "@huggingface/inference": "^4.13.30",
+    "@langchain/core": "^1.2.12",
+    "@langchain/google-genai": "^2.3.2",
+    "@langchain/openai": "^1.5.13",
+    "compute-cosine-similarity": "^1.1.0"
+  }
+}
